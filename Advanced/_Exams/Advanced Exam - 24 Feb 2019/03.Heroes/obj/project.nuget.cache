@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "olSoleaPSDz8Y0HMM5Ht8nO9Fsup41+OSqlIDYiJLFQD8IZktw/ZDslveOijFd246zPqPov9qvVdJZ9F0lRnpA==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\C#\\SoftUni\\Advanced\\Advanced Exam - 24 Feb 2019\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\v1k70\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

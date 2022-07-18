@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\bin\Debug\netcoreapp3.1\02. SumNumbers.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\bin\Debug\netcoreapp3.1\02. SumNumbers.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\bin\Debug\netcoreapp3.1\02. SumNumbers.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\bin\Debug\netcoreapp3.1\02. SumNumbers.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\bin\Debug\netcoreapp3.1\02. SumNumbers.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\bin\Debug\netcoreapp3.1\02. SumNumbers.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\02. SumNumbers\obj\Debug\netcoreapp3.1\02. SumNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache

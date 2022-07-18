@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\bin\Debug\netcoreapp3.1\02. KnightsOfHonor.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\bin\Debug\netcoreapp3.1\02. KnightsOfHonor.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\bin\Debug\netcoreapp3.1\02. KnightsOfHonor.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\bin\Debug\netcoreapp3.1\02. KnightsOfHonor.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\bin\Debug\netcoreapp3.1\02. KnightsOfHonor.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\bin\Debug\netcoreapp3.1\02. KnightsOfHonor.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\obj\Debug\netcoreapp3.1\02. KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\obj\Debug\netcoreapp3.1\02. KnightsOfHonor.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\obj\Debug\netcoreapp3.1\02. KnightsOfHonor.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\obj\Debug\netcoreapp3.1\02. KnightsOfHonor.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\obj\Debug\netcoreapp3.1\02. KnightsOfHonor.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\02. KnightsOfHonor\obj\Debug\netcoreapp3.1\02. KnightsOfHonor.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\bin\Debug\netcoreapp3.1\04. CopyBinaryFile.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\bin\Debug\netcoreapp3.1\04. CopyBinaryFile.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\bin\Debug\netcoreapp3.1\04. CopyBinaryFile.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\bin\Debug\netcoreapp3.1\04. CopyBinaryFile.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\bin\Debug\netcoreapp3.1\04. CopyBinaryFile.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\bin\Debug\netcoreapp3.1\04. CopyBinaryFile.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\obj\Debug\netcoreapp3.1\04. CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\obj\Debug\netcoreapp3.1\04. CopyBinaryFile.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\obj\Debug\netcoreapp3.1\04. CopyBinaryFile.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\obj\Debug\netcoreapp3.1\04. CopyBinaryFile.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\obj\Debug\netcoreapp3.1\04. CopyBinaryFile.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\04. CopyBinaryFile\obj\Debug\netcoreapp3.1\04. CopyBinaryFile.genruntimeconfig.cache

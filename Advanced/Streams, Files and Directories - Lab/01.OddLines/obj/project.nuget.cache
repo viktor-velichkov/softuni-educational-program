@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGdFc6Trb4kwXc2QorLeRXpmHVctAGVw27qmvQNX0Se2PAdP/ggyBwr60JMW1Vcgv3BLa5NZVv7cVZk2W8I2Fw==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Streams, Files and Directories - Lab\\01.OddLines\\01.OddLines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

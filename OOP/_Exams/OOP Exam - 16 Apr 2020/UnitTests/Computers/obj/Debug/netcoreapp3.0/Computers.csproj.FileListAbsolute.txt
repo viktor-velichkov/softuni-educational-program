@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\bin\Debug\netcoreapp3.0\Computers.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\bin\Debug\netcoreapp3.0\Computers.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\bin\Debug\netcoreapp3.0\Computers.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\bin\Debug\netcoreapp3.0\Computers.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\bin\Debug\netcoreapp3.0\Computers.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\obj\Debug\netcoreapp3.0\Computers.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\obj\Debug\netcoreapp3.0\Computers.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\obj\Debug\netcoreapp3.0\Computers.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\obj\Debug\netcoreapp3.0\Computers.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 16 Apr 2020\UnitTests\Computers\obj\Debug\netcoreapp3.0\Computers.genruntimeconfig.cache

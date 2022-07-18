@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\bin\Debug\netcoreapp3.1\06. FolderSize.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\bin\Debug\netcoreapp3.1\06. FolderSize.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\bin\Debug\netcoreapp3.1\06. FolderSize.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\bin\Debug\netcoreapp3.1\06. FolderSize.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\bin\Debug\netcoreapp3.1\06. FolderSize.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\bin\Debug\netcoreapp3.1\06. FolderSize.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\obj\Debug\netcoreapp3.1\06. FolderSize.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\obj\Debug\netcoreapp3.1\06. FolderSize.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\obj\Debug\netcoreapp3.1\06. FolderSize.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\obj\Debug\netcoreapp3.1\06. FolderSize.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\obj\Debug\netcoreapp3.1\06. FolderSize.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\06. FolderSize\obj\Debug\netcoreapp3.1\06. FolderSize.genruntimeconfig.cache

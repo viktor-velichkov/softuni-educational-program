@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\bin\Debug\netcoreapp3.1\INStock.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\bin\Debug\netcoreapp3.1\INStock.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\bin\Debug\netcoreapp3.1\INStock.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\bin\Debug\netcoreapp3.1\INStock.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\bin\Debug\netcoreapp3.1\INStock.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\INStock\obj\Debug\netcoreapp3.1\INStock.genruntimeconfig.cache

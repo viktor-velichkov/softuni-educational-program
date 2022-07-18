@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

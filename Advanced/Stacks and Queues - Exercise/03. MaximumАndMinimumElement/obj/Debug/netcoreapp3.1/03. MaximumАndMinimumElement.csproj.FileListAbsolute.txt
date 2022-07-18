@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\bin\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\03. MaximumАndMinimumElement\obj\Debug\netcoreapp3.1\03. MaximumАndMinimumElement.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\bin\Debug\netcoreapp3.1\04. EvenTimes.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\04. EvenTimes\obj\Debug\netcoreapp3.1\04. EvenTimes.genruntimeconfig.cache

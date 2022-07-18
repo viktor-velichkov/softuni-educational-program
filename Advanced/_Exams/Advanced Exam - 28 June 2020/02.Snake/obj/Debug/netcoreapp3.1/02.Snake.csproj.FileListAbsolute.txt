@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\bin\Debug\netcoreapp3.1\02.Snake.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\02.Snake\obj\Debug\netcoreapp3.1\02.Snake.genruntimeconfig.cache

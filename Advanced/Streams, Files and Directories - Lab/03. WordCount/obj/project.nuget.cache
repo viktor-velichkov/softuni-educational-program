@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBT1vr0PwYqUIUrm01LhZFJ05Wc5m0t6Fi+c7IMmKhqMNGlXbHJY/CoaHf0OfUEoA40yp4x7R0ey6V29YED+lw==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Streams, Files and Directories - Lab\\03. WordCount\\03. WordCount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\bin\Debug\netcoreapp3.1\03. PrimaryDiagonal.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\bin\Debug\netcoreapp3.1\03. PrimaryDiagonal.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\bin\Debug\netcoreapp3.1\03. PrimaryDiagonal.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\bin\Debug\netcoreapp3.1\03. PrimaryDiagonal.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\bin\Debug\netcoreapp3.1\03. PrimaryDiagonal.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\bin\Debug\netcoreapp3.1\03. PrimaryDiagonal.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\03. PrimaryDiagonal\obj\Debug\netcoreapp3.1\03. PrimaryDiagonal.genruntimeconfig.cache

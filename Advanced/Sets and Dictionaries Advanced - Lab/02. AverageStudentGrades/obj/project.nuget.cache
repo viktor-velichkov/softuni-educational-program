@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMPMh77Y4tuHZkte9vaNMy9L0SJbkTajHsDOwkHRKcHXlL949zKvYyExre6z9/7qhkWsTEshoQIpl7uElgR3lA==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Sets and Dictionaries Advanced - Lab\\02. AverageStudentGrades\\02. AverageStudentGrades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

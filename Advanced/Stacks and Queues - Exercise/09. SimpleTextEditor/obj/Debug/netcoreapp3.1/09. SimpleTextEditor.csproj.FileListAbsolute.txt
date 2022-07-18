@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\bin\Debug\netcoreapp3.1\09. SimpleTextEditor.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\bin\Debug\netcoreapp3.1\09. SimpleTextEditor.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\bin\Debug\netcoreapp3.1\09. SimpleTextEditor.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\bin\Debug\netcoreapp3.1\09. SimpleTextEditor.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\bin\Debug\netcoreapp3.1\09. SimpleTextEditor.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\bin\Debug\netcoreapp3.1\09. SimpleTextEditor.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\09. SimpleTextEditor\obj\Debug\netcoreapp3.1\09. SimpleTextEditor.genruntimeconfig.cache

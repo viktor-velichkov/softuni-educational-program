@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\bin\Debug\netcoreapp3.1\06. SongsQueue.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\bin\Debug\netcoreapp3.1\06. SongsQueue.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\bin\Debug\netcoreapp3.1\06. SongsQueue.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\bin\Debug\netcoreapp3.1\06. SongsQueue.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\bin\Debug\netcoreapp3.1\06. SongsQueue.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\bin\Debug\netcoreapp3.1\06. SongsQueue.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Stacks and Queues - Exercise\06. SongsQueue\obj\Debug\netcoreapp3.1\06. SongsQueue.genruntimeconfig.cache

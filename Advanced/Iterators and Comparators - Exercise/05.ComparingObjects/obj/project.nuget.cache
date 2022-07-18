@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mWg+ewz7MhJcrR3GztMYtVKrBECmu53l8XIIUkdiE8LkdABYAvvY0e2dphNY6WItDWuN6nKXFI+iRjQ/Fki/eA==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Iterators and Comparators - Exercise\\05.ComparingObjects\\05.ComparingObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

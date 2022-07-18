@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\bin\Debug\netcoreapp3.1\01. SumMatrixElements.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\bin\Debug\netcoreapp3.1\01. SumMatrixElements.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\bin\Debug\netcoreapp3.1\01. SumMatrixElements.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\bin\Debug\netcoreapp3.1\01. SumMatrixElements.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\bin\Debug\netcoreapp3.1\01. SumMatrixElements.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\bin\Debug\netcoreapp3.1\01. SumMatrixElements.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\01. SumMatrixElements\obj\Debug\netcoreapp3.1\01. SumMatrixElements.genruntimeconfig.cache

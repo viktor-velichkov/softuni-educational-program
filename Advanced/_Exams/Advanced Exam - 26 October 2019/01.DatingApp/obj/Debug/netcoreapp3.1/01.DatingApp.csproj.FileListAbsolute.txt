@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\bin\Debug\netcoreapp3.1\01.DatingApp.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\bin\Debug\netcoreapp3.1\01.DatingApp.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\bin\Debug\netcoreapp3.1\01.DatingApp.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\bin\Debug\netcoreapp3.1\01.DatingApp.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\bin\Debug\netcoreapp3.1\01.DatingApp.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\bin\Debug\netcoreapp3.1\01.DatingApp.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\01.DatingApp\obj\Debug\netcoreapp3.1\01.DatingApp.genruntimeconfig.cache

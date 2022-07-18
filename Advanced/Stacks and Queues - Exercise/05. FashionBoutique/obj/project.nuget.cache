@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejV7yVz74TTEJoGWL7ueY9mxjESM+PbvKw8DFlu//jrePDlQXPsEi9Uc8/lqEZT9nvCSz53eQ/XGRd9N1ZmNeg==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Stacks and Queues - Exercise\\05. FashionBoutique\\05. FashionBoutique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqvf9MVpK6xkxRv8rsgEKZW+KoI0G570eAM2+hCzcnFLwde/X1GHB13Tr4ALRaQTX/Y2z286sfqeeXwNm5+AJA==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Functional Programming - Exercise\\12. TriFunction\\12. TriFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

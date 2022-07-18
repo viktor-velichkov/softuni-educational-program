@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "72bo6heQq8WCrODdpWonc4VweVVgSjCIafYvQo5E8I2lCkn0LurL8z72zCRxomuaj2kl6YMyEtJ8gV5slc3miQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Defining Classes - Exercise\\06.SpeedRacing\\06.SpeedRacing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

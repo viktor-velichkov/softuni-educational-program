@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\bin\Debug\netcoreapp3.1\04. MergeFiles.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\bin\Debug\netcoreapp3.1\04. MergeFiles.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\bin\Debug\netcoreapp3.1\04. MergeFiles.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\bin\Debug\netcoreapp3.1\04. MergeFiles.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\bin\Debug\netcoreapp3.1\04. MergeFiles.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\bin\Debug\netcoreapp3.1\04. MergeFiles.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\04. MergeFiles\obj\Debug\netcoreapp3.1\04. MergeFiles.genruntimeconfig.cache

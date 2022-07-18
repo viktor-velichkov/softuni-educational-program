@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

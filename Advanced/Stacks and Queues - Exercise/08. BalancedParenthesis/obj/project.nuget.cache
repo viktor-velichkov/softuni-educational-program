@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dKoMXJtCuMgHAZ6HqXpMFK51J/EIV8hzLWNAtHHy0peuCO6pgUcQvBnjQP3fL/THD7BDJOEBtzE8+wm6raYKQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Stacks and Queues - Exercise\\08. BalancedParenthesis\\08. BalancedParenthesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

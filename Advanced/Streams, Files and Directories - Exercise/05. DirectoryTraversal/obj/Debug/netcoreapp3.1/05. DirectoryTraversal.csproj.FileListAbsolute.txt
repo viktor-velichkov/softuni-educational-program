@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\bin\Debug\netcoreapp3.1\05. DirectoryTraversal.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\bin\Debug\netcoreapp3.1\05. DirectoryTraversal.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\bin\Debug\netcoreapp3.1\05. DirectoryTraversal.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\bin\Debug\netcoreapp3.1\05. DirectoryTraversal.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\bin\Debug\netcoreapp3.1\05. DirectoryTraversal.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\bin\Debug\netcoreapp3.1\05. DirectoryTraversal.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.genruntimeconfig.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\05. DirectoryTraversal\obj\Debug\netcoreapp3.1\05. DirectoryTraversal.csprojAssemblyReference.cache

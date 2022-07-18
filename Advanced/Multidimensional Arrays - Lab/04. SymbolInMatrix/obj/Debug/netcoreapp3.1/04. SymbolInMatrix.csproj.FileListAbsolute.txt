@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\bin\Debug\netcoreapp3.1\04. SymbolInMatrix.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\bin\Debug\netcoreapp3.1\04. SymbolInMatrix.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\bin\Debug\netcoreapp3.1\04. SymbolInMatrix.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\bin\Debug\netcoreapp3.1\04. SymbolInMatrix.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\bin\Debug\netcoreapp3.1\04. SymbolInMatrix.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\bin\Debug\netcoreapp3.1\04. SymbolInMatrix.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\obj\Debug\netcoreapp3.1\04. SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\obj\Debug\netcoreapp3.1\04. SymbolInMatrix.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\obj\Debug\netcoreapp3.1\04. SymbolInMatrix.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\obj\Debug\netcoreapp3.1\04. SymbolInMatrix.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\obj\Debug\netcoreapp3.1\04. SymbolInMatrix.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\04. SymbolInMatrix\obj\Debug\netcoreapp3.1\04. SymbolInMatrix.genruntimeconfig.cache

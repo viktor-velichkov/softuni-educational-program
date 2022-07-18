@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\obj\Debug\netcoreapp3.1\08.Threeuple.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\obj\Debug\netcoreapp3.1\08.Threeuple.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\obj\Debug\netcoreapp3.1\08.Threeuple.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\bin\Debug\netcoreapp3.1\08.Threeuple.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\bin\Debug\netcoreapp3.1\08.Threeuple.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\bin\Debug\netcoreapp3.1\08.Threeuple.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\bin\Debug\netcoreapp3.1\08.Threeuple.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\bin\Debug\netcoreapp3.1\08.Threeuple.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\bin\Debug\netcoreapp3.1\08.Threeuple.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\obj\Debug\netcoreapp3.1\08.Threeuple.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\obj\Debug\netcoreapp3.1\08.Threeuple.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\08.Threeuple\obj\Debug\netcoreapp3.1\08.Threeuple.genruntimeconfig.cache

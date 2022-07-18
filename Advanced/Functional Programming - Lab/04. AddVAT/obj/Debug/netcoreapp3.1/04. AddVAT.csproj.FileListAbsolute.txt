@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\bin\Debug\netcoreapp3.1\04. AddVAT.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\bin\Debug\netcoreapp3.1\04. AddVAT.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\bin\Debug\netcoreapp3.1\04. AddVAT.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\bin\Debug\netcoreapp3.1\04. AddVAT.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\bin\Debug\netcoreapp3.1\04. AddVAT.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\bin\Debug\netcoreapp3.1\04. AddVAT.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\04. AddVAT\obj\Debug\netcoreapp3.1\04. AddVAT.genruntimeconfig.cache

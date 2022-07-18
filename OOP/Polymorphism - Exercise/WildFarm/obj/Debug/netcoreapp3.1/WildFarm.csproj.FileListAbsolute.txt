@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Polymorphism - Exercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache

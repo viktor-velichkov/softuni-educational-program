@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "brKT0Lh0b5LzVB02w7gWodjTH8l9Pm8wsVoafyidc/d5iRnT/WIXxRf0pzlr499M0nzSUWXwl+iCCbE69+dqjw==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Stacks and Queues - Exercise\\12. CupsAndBottles\\12. CupsAndBottles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

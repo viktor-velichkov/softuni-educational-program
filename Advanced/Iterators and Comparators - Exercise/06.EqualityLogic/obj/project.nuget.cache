@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "REMo3Kl5Oudj1imww+NDUZlibKFq2dLpR4SFz8HZJPpomjqFI+DyXWnY8LEC/85+afwWM0P3rfR+ArePR9TPNQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Iterators and Comparators - Exercise\\06.EqualityLogic\\06.EqualityLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

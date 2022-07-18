@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "au/ITr66f8Cj6xAUyExJHdlWuJOSNcHBZCypuWcsf+G12Bkn71GuqLhqAEgUmqbAo0uYM/hiFyGrUKwwEOFbng==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\OOP\\Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

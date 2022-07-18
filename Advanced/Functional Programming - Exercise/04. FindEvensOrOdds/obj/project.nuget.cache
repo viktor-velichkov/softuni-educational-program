@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJn6ZNku7KkBRizJ8oaXQPUgVlC/g7t8ODgH+I9NSQ796F4PbihvWWHd3NEdBJh58TZzYAUpaq8W7eQ35a6zlQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Functional Programming - Exercise\\04. FindEvensOrOdds\\04. FindEvensOrOdds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

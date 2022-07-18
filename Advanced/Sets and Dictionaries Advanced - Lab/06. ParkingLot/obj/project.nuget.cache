@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/8x5a2V7Xi0/4tu5VsSB8L4rsKWueG2Q3p3/md0i//WW2gJUNVxcFLLMRqPeEA4o8tJ+KW4hPbpFiDWDPB8tbg==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Sets and Dictionaries Advanced - Lab\\06. ParkingLot\\06. ParkingLot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

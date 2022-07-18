@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHjEwypS2tI1uDJhAfPmPafE7pWTfsCEgaQs4ex3jBOEFWYCXk8kSejyBzgGTZroLSkfsf1nSq3hV2M5EEn0tw==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Iterators and Comparators - Exercise\\03.Stack\\03.Stack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\03.Rabbits\obj\Debug\netcoreapp2.1\Rabbits.genruntimeconfig.cache

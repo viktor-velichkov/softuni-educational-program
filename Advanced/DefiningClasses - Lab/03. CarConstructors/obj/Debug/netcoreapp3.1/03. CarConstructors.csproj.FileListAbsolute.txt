@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\bin\Debug\netcoreapp3.1\03. CarConstructors.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\bin\Debug\netcoreapp3.1\03. CarConstructors.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\bin\Debug\netcoreapp3.1\03. CarConstructors.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\bin\Debug\netcoreapp3.1\03. CarConstructors.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\bin\Debug\netcoreapp3.1\03. CarConstructors.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\bin\Debug\netcoreapp3.1\03. CarConstructors.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\03. CarConstructors\obj\Debug\netcoreapp3.1\03. CarConstructors.genruntimeconfig.cache

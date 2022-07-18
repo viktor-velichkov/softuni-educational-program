@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\netcoreapp3.1\01.OddLines.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\netcoreapp3.1\01.OddLines.genruntimeconfig.cache

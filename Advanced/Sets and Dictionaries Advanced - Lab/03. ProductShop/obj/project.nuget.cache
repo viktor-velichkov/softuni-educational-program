@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwYl3Pz9HxovJZY/BG+YgooFLlSMmHjajgStc2B3pNF4RQ6TwGBfB6rGglZlI83CNe04iNdolP4+iGzevXm/KA==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Sets and Dictionaries Advanced - Lab\\03. ProductShop\\03. ProductShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

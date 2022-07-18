@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Apr 2020\UT\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

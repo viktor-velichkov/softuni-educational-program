@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKTEGHgNg5TYYogA5VJ/ufioJ5Grty8WLkEjsCdmc/hzJ9toHELDtTcLOiG6e6/cBXrjS/mCUjzWxMUZG866Ww==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Sets and Dictionaries Advanced - Lab\\01. CountSameValuesInArray\\01. CountSameValuesInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S0j/PSFk3kR3+krgzqFqoDXz8PRPtIJOKZm6Ni0NJhFH0KKT9E12erLKXGkvi4RSFD8WoGOSbb2qoeAZ5OJH/A==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Functional Programming - Exercise\\10. PredicateParty!\\10. PredicateParty!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

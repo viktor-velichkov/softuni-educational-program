@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvpcOA9UttlOBMMUkSmEr8g6EoMUTLzlnOLDAvbyqqmj1pZCeqbZvqkeUtXq7fYC+nB7MDCB4DKbft/+o/aN9A==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Streams, Files and Directories - Lab\\04. MergeFiles\\04. MergeFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

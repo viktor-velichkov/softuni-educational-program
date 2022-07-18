@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\bin\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\01.SingleInheritance\obj\Debug\netcoreapp3.1\01.SingleInheritance.genruntimeconfig.cache

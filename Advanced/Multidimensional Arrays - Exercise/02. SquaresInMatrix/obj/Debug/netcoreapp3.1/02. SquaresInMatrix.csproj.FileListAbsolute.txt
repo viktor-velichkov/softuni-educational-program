@@ -1,0 +1,12 @@
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\bin\Debug\netcoreapp3.1\02. SquaresInMatrix.exe
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\bin\Debug\netcoreapp3.1\02. SquaresInMatrix.deps.json
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\bin\Debug\netcoreapp3.1\02. SquaresInMatrix.runtimeconfig.json
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\bin\Debug\netcoreapp3.1\02. SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\bin\Debug\netcoreapp3.1\02. SquaresInMatrix.dll
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\bin\Debug\netcoreapp3.1\02. SquaresInMatrix.pdb
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\obj\Debug\netcoreapp3.1\02. SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\obj\Debug\netcoreapp3.1\02. SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\obj\Debug\netcoreapp3.1\02. SquaresInMatrix.AssemblyInfo.cs
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\obj\Debug\netcoreapp3.1\02. SquaresInMatrix.dll
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\obj\Debug\netcoreapp3.1\02. SquaresInMatrix.pdb
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\02. SquaresInMatrix\obj\Debug\netcoreapp3.1\02. SquaresInMatrix.genruntimeconfig.cache

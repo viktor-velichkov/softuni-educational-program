@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\bin\Debug\netcoreapp3.1\02. SetsOfElements.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\bin\Debug\netcoreapp3.1\02. SetsOfElements.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\bin\Debug\netcoreapp3.1\02. SetsOfElements.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\bin\Debug\netcoreapp3.1\02. SetsOfElements.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\bin\Debug\netcoreapp3.1\02. SetsOfElements.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\bin\Debug\netcoreapp3.1\02. SetsOfElements.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Exercise\02. SetsOfElements\obj\Debug\netcoreapp3.1\02. SetsOfElements.genruntimeconfig.cache

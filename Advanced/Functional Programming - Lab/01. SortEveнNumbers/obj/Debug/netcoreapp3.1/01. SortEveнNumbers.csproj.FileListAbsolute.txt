@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\bin\Debug\netcoreapp3.1\01. SortEveнNumbers.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\bin\Debug\netcoreapp3.1\01. SortEveнNumbers.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\bin\Debug\netcoreapp3.1\01. SortEveнNumbers.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\bin\Debug\netcoreapp3.1\01. SortEveнNumbers.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\bin\Debug\netcoreapp3.1\01. SortEveнNumbers.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\bin\Debug\netcoreapp3.1\01. SortEveнNumbers.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Lab\01. SortEveнNumbers\obj\Debug\netcoreapp3.1\01. SortEveнNumbers.genruntimeconfig.cache

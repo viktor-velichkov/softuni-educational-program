@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\bin\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Mocking and TDD - Excercise\FakeAxeAndDummy\obj\Debug\netcoreapp3.1\FakeAxeAndDummy.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJTU5+4g/L/EzLYLOYUrAGBjdJeRO0A16BNnJ55VdK01lRlMurFlPELvOPImNrIBF7QiTIVTh885R1uaQd9PFg==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Streams, Files and Directories - Lab\\02.LineNumbers\\02.LineNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

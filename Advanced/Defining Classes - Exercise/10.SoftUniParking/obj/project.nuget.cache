@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOx9X4vxiBd6y62KOhl3Rqru+38PKtAjOkoDtQ4BOpahN01pZnBdbPHa+km+WPNJFwQMjJUBezg0dWg16oICkw==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Defining Classes - Exercise\\10.SoftUniParking\\SoftUniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

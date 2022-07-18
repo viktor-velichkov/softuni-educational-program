@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tlbHh8UBWua9DABQWjweHIeg82yotv89yW5vQkEZA02sn1LCqn4DNbA4keJe85tDMGeqtWtMC2EZuiEFV7I3A==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Generics - Exercise\\04.GenericSwapMethodInteger\\04.GenericSwapMethodInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

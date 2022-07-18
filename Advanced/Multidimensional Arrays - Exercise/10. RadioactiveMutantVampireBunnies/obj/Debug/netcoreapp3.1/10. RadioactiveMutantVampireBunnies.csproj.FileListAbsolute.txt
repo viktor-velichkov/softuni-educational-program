@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\bin\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Exercise\10. RadioactiveMutantVampireBunnies\obj\Debug\netcoreapp3.1\10. RadioactiveMutantVampireBunnies.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06. JaggedArrayManipulator.exe
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06. JaggedArrayManipulator.deps.json
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06. JaggedArrayManipulator.runtimeconfig.json
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06. JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06. JaggedArrayManipulator.dll
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06. JaggedArrayManipulator.pdb
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.dll
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.pdb
+C:\Users\v1k70\source\repos\Multidimensional Arrays - Exercise\06. JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06. JaggedArrayManipulator.genruntimeconfig.cache

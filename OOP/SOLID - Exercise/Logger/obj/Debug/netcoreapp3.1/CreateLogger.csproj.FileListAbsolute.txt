@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\bin\Debug\netcoreapp3.1\CreateLogger.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\bin\Debug\netcoreapp3.1\CreateLogger.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\bin\Debug\netcoreapp3.1\CreateLogger.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\bin\Debug\netcoreapp3.1\CreateLogger.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\bin\Debug\netcoreapp3.1\CreateLogger.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\bin\Debug\netcoreapp3.1\CreateLogger.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\SOLID - Exercise\Logger\obj\Debug\netcoreapp3.1\CreateLogger.genruntimeconfig.cache

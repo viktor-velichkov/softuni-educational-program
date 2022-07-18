@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "07b6/1aH9Rm3hqnps6fFseL/XCWNQXLsP5A+wWhhA+71DbkvqPio08B1pUYwGC5qsSqdagjUSDvrhnzKsp4KPA==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Sets and Dictionaries Advanced - Lab\\05. RecordUniqueNames\\05. RecordUniqueNames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

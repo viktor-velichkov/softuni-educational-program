@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\bin\Debug\netcoreapp3.1\02.BookWorm.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 26 October 2019\02.BookWorm\obj\Debug\netcoreapp3.1\02.BookWorm.genruntimeconfig.cache

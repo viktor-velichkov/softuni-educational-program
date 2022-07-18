@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 25 October 2020\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.genruntimeconfig.cache

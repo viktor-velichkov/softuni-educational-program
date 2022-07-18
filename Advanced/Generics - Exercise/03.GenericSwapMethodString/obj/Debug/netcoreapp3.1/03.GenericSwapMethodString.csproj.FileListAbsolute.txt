@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\bin\Debug\netcoreapp3.1\03.GenericSwapMethodString.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\03.GenericSwapMethodString\obj\Debug\netcoreapp3.1\03.GenericSwapMethodString.genruntimeconfig.cache

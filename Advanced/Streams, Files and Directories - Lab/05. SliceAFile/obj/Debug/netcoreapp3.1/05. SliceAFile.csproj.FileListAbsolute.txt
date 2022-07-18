@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\bin\Debug\netcoreapp3.1\05. SliceAFile.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\bin\Debug\netcoreapp3.1\05. SliceAFile.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\bin\Debug\netcoreapp3.1\05. SliceAFile.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\bin\Debug\netcoreapp3.1\05. SliceAFile.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\bin\Debug\netcoreapp3.1\05. SliceAFile.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\bin\Debug\netcoreapp3.1\05. SliceAFile.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Lab\05. SliceAFile\obj\Debug\netcoreapp3.1\05. SliceAFile.genruntimeconfig.cache

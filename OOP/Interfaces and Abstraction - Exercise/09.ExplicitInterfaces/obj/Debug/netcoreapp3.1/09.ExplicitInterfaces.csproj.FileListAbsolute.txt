@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\09.ExplicitInterfaces.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\09.ExplicitInterfaces.genruntimeconfig.cache

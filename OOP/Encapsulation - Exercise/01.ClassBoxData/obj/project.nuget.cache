@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7PTuKYF3jVsFJS8i86EFooTtBzBs0vnR+CK9UpGY9jsL4PKl4VXNRv7u7BsZU5zHNiv8Xm9pqpOdeSj9ONBOg==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\OOP\\Encapsulation - Exercise\\01.ClassBoxData\\01.ClassBoxData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

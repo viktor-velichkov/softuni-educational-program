@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05. SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05. SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05. SquareWithMaximumSum.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05. SquareWithMaximumSum.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05. SquareWithMaximumSum.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05. SquareWithMaximumSum.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05. SquareWithMaximumSum.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05. SquareWithMaximumSum.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05. SquareWithMaximumSum.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05. SquareWithMaximumSum.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05. SquareWithMaximumSum.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Multidimensional Arrays - Lab\05. SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05. SquareWithMaximumSum.genruntimeconfig.cache

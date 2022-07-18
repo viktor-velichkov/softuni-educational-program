@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Advanced Exam - 28 June 2020\03.Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

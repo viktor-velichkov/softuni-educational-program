@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp3.1\01. CountSameValuesInArray.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp3.1\01. CountSameValuesInArray.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp3.1\01. CountSameValuesInArray.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp3.1\01. CountSameValuesInArray.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp3.1\01. CountSameValuesInArray.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\bin\Debug\netcoreapp3.1\01. CountSameValuesInArray.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Sets and Dictionaries Advanced - Lab\01. CountSameValuesInArray\obj\Debug\netcoreapp3.1\01. CountSameValuesInArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\bin\Debug\netcoreapp3.1\06. ZipAndExtract.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\bin\Debug\netcoreapp3.1\06. ZipAndExtract.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\bin\Debug\netcoreapp3.1\06. ZipAndExtract.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\bin\Debug\netcoreapp3.1\06. ZipAndExtract.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\bin\Debug\netcoreapp3.1\06. ZipAndExtract.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\bin\Debug\netcoreapp3.1\06. ZipAndExtract.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.genruntimeconfig.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Streams, Files and Directories - Exercise\06. ZipAndExtract\obj\Debug\netcoreapp3.1\06. ZipAndExtract.csprojAssemblyReference.cache

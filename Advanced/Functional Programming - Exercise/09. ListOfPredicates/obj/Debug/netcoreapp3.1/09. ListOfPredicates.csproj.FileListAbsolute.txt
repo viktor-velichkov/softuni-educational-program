@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\bin\Debug\netcoreapp3.1\09. ListOfPredicates.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\bin\Debug\netcoreapp3.1\09. ListOfPredicates.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\bin\Debug\netcoreapp3.1\09. ListOfPredicates.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\bin\Debug\netcoreapp3.1\09. ListOfPredicates.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\bin\Debug\netcoreapp3.1\09. ListOfPredicates.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\bin\Debug\netcoreapp3.1\09. ListOfPredicates.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Functional Programming - Exercise\09. ListOfPredicates\obj\Debug\netcoreapp3.1\09. ListOfPredicates.genruntimeconfig.cache

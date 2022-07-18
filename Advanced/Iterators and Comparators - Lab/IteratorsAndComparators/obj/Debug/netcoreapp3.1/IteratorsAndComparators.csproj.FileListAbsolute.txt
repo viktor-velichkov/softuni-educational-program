@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Iterators and Comparators - Lab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache

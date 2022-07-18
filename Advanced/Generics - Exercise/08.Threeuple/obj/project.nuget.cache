@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsLxPX7DxZ7QMM+Abg3AspiK7D1ok/ftZn9tXylUQ/72xdC0uGS6/LrtEfymkmuqZcFU8bwhVNN/Nt5g1O7I2A==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Generics - Exercise\\08.Threeuple\\08.Threeuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

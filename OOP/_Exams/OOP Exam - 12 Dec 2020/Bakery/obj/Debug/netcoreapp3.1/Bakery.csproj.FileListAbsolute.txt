@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\OOP Exam - 12 Dec 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YPxgXAdkb0533uU8ggsZpqCMeQkBwiToYRQ1jFMIKgCmleUExWECM1a8U/r74s01jH2F9aAgSlUswg3j+DjXqQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Functional Programming - Exercise\\08. CustomComparator\\08. CustomComparator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

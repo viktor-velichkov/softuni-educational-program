@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0vIPFrSOTV7SADrq+XAGxr97XngrJ9bf0UZzjvGxv2glE7r7jL8m7Wk7opFETe5w5tNkQITUnvINbGEDoj7DQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\DefiningClasses - Lab\\03. CarConstructors\\03. CarConstructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

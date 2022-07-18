@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02.GenericBoxOfInteger.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Exercise\02.GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02.GenericBoxOfInteger.genruntimeconfig.cache

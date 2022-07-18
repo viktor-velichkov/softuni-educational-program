@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\bin\Debug\netcoreapp3.1\01.Box.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\Generics - Lab\01.Box\obj\Debug\netcoreapp3.1\01.Box.genruntimeconfig.cache

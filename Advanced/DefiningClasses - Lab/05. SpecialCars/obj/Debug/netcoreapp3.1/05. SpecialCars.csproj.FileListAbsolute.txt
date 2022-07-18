@@ -1,0 +1,12 @@
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\bin\Debug\netcoreapp3.1\05. SpecialCars.exe
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\bin\Debug\netcoreapp3.1\05. SpecialCars.deps.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\bin\Debug\netcoreapp3.1\05. SpecialCars.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\bin\Debug\netcoreapp3.1\05. SpecialCars.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\bin\Debug\netcoreapp3.1\05. SpecialCars.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\bin\Debug\netcoreapp3.1\05. SpecialCars.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\obj\Debug\netcoreapp3.1\05. SpecialCars.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\obj\Debug\netcoreapp3.1\05. SpecialCars.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\obj\Debug\netcoreapp3.1\05. SpecialCars.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\obj\Debug\netcoreapp3.1\05. SpecialCars.dll
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\obj\Debug\netcoreapp3.1\05. SpecialCars.pdb
+D:\PROGRAMMING\C#\SoftUni\Advanced\DefiningClasses - Lab\05. SpecialCars\obj\Debug\netcoreapp3.1\05. SpecialCars.genruntimeconfig.cache

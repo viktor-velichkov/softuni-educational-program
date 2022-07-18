@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ngTfN7/QYBXA4Kgt+kEjVHfW8K6Tk3rFsZt2o6fdCP89IdQlAyRwwYBv6TcNtniz/NlwUAFfC/z36/jmwqU8JQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\SOFTUNI\\Advanced\\Sets and Dictionaries Advanced - Exercise\\04. EvenTimes\\04. EvenTimes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v1k70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

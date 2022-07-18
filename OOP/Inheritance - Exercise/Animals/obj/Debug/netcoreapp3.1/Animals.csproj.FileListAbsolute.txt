@@ -1,0 +1,13 @@
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\PROGRAMMING\C#\SoftUni\OOP\Inheritance - Exercise\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
